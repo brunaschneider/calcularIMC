@@ -31,4 +31,4 @@ O Aplicativo de Cálculo de Índice de Massa Corporal (IMC) em Flutter é uma fe
 - `result_screen.dart`: Arquivo que lida com a exibição dos resultados do IMC e a categoria de peso, mostrando as informações de forma clara e colorida conforme a avaliação.
 
 ## Licença
-Este projeto é licenciado sob a [MIT License](https://github.com/brunaschneider/calcularIMC/blob/main/LICENSE).
+Este projeto é licenciado sob a [MIT License](https://github.com/brunaschneider/calcularIMC/).
